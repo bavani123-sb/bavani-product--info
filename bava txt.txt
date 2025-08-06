@@ -1,4 +1,4 @@
 Name : Himalaya
-Type : Organic
+Type : Organic & Pure
 Rate : *****
 price : +200
