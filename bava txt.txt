@@ -1,0 +1,4 @@
+Name : Himalaya
+Type : Organic
+Rate : *****
+price : +200
