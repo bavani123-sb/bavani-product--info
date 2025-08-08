@@ -1,5 +1,5 @@
 Name : Himalaya
 Type : Organic & Pure
-Rate : *****
-price : +300
+Rate : ****
+price : +350
 Organizer : Sahithyan
